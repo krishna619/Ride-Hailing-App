@@ -160,7 +160,6 @@ The backend is instrumented using **New Relic APM** to observe real production-l
 
 ### New Relic Dashboards
 ![APM Summary](docs/newrelic/apm-summary.png.png)
-![Throughput & Errors](docs/newrelic/apm-throughput-errors.png.png)
 ![Transactions Breakdown](docs/newrelic/apm-transactions.png.png)
 ![Distributed Tracing](docs/newrelic/apm-tracing.png.png)
 ![Node VM Metrics](docs/newrelic/apm-node-vm.png.png)
